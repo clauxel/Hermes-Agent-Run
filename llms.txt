@@ -1,0 +1,11 @@
+# Hermes Agent Run
+
+Hermes Agent Run is a SaaS workspace for agentic AI workflow dashboard.
+
+Website: https://hermesagentrun.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: agentic AI workflow dashboard
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
